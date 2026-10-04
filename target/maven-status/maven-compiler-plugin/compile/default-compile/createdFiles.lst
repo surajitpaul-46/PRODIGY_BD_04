@@ -1,0 +1,8 @@
+com\example\rediscache\controller\UserController.class
+com\example\rediscache\config\RedisConfig.class
+com\example\rediscache\model\User$UserBuilder.class
+com\example\rediscache\config\EmbeddedRedisConfig.class
+com\example\rediscache\service\UserService.class
+com\example\rediscache\RedisCacheApplication.class
+com\example\rediscache\repository\UserRepository.class
+com\example\rediscache\model\User.class

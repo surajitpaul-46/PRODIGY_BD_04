@@ -1,0 +1,8 @@
+$projectDir = "C:\Users\suraj\.gemini\antigravity\scratch\spring-boot-redis-caching"
+New-Item -ItemType Directory -Force -Path "$projectDir\src\main\java\com\example\rediscache\controller"
+New-Item -ItemType Directory -Force -Path "$projectDir\src\main\java\com\example\rediscache\service"
+New-Item -ItemType Directory -Force -Path "$projectDir\src\main\java\com\example\rediscache\model"
+New-Item -ItemType Directory -Force -Path "$projectDir\src\main\java\com\example\rediscache\repository"
+New-Item -ItemType Directory -Force -Path "$projectDir\src\main\java\com\example\rediscache\config"
+New-Item -ItemType Directory -Force -Path "$projectDir\src\main\resources"
+New-Item -ItemType Directory -Force -Path "$projectDir\src\test\java\com\example\rediscache"
